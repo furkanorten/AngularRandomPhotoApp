@@ -1,4 +1,6 @@
-# RandomPhotoApp
+# AngularRandomPhotoApp
+
+Web page with Angular which gets a random photo from API and displays it
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
